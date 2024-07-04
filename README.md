@@ -27,4 +27,5 @@ Any machine learning model is only as good as its database permits it. Choosing 
 We chose to go forward with the dataset [Text with Sentiment](https://www.kaggle.com/datasets/divu2001/text-with-sentiment), which contains unprocessed tweet texts mapped to their sentiments. This dataset provides a rich variety of sentiments, allowing our model to learn and predict a wide range of emotional responses.
 
 
-Markup: [1](https://doi.org/10.48550/arXiv.2006.03541)
+[1](https://doi.org/10.48550/arXiv.2006.03541) [2](https://www.baeldung.com/cs/word-embeddings-cbow-vs-skip-gram) [3](https://www.ibm.com/topics/stemming-lemmatization#:~:text=The%20practical%20distinction%20between%20stemming,be%20found%20in%20the%20dictionary.)
+
