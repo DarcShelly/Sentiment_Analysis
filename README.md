@@ -25,3 +25,6 @@ In this project, we focus specifically on CNN models for sentiment analysis.
 Any machine learning model is only as good as its database permits it. Choosing a database for our project proved to be a challenging task, as we wished to predict not only the polarity behind the text but also the emotion—such as joy, sadness, neutral, etc. This requirement for a broader prediction range eliminated many of the top text databases available on Kaggle.
 
 We chose to go forward with the dataset [Text with Sentiment](https://www.kaggle.com/datasets/divu2001/text-with-sentiment), which contains unprocessed tweet texts mapped to their sentiments. This dataset provides a rich variety of sentiments, allowing our model to learn and predict a wide range of emotional responses.
+
+
+Markup: [1](https://doi.org/10.48550/arXiv.2006.03541)
